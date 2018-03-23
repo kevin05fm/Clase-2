@@ -8,6 +8,7 @@ int main()
     int resultado;
     char respuesta;
 
+    //HOLA
     while(respuesta!='s')
     {
         printf("ingresar un numero\n");
