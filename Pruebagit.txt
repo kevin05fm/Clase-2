@@ -1,0 +1,8 @@
+1-git init :inicia el repositorio de git
+2-git status :muestra el estado del archivo
+
+3-git add "nombre del archivo"
+4-git commit
+5-git push
+
+6666
